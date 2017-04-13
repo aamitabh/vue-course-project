@@ -1,6 +1,4 @@
-# vue-cli-v2
-
-> A Vue.js project
+# vue-course-project
 
 ## Build Setup
 
